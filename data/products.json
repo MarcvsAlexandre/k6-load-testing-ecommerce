@@ -1,0 +1,12 @@
+[
+  {
+    "id": "abc123",
+    "name": "Fone Bluetooth",
+    "price": 199.90
+  },
+  {
+    "id": "xyz789",
+    "name": "Notebook Gamer",
+    "price": 4999.90
+  }
+]
